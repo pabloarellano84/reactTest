@@ -10,7 +10,7 @@ const App = () => (
     <Joke question="Toc Toc 4" punchLine="Te olvidaste las llaves?"/>
     <Joke question="Toc Toc 5" punchLine="es?"/>
   </div>
-  //asd
+  //
 )
 
 ReactDOM.render(<App />, document.getElementById('root'));
